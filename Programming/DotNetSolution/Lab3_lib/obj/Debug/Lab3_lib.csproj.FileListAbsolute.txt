@@ -10,3 +10,9 @@ C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_
 C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_lab3\Programming\DotNetSolution\Lab3_lib\obj\Debug\Lab3_lib.csproj.CoreCompileInputs.cache
 C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_lab3\Programming\DotNetSolution\Lab3_lib\obj\Debug\Lab3_lib.dll
 C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_lab3\Programming\DotNetSolution\Lab3_lib\obj\Debug\Lab3_lib.pdb
+C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_lab4\Programming\ExternalLibs\Lab3_lib.dll
+C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_lab4\Programming\ExternalLibs\Lab3_lib.pdb
+C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_lab4\Programming\DotNetSolution\Lab3_lib\obj\Debug\Lab3_lib.csproj.AssemblyReference.cache
+C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_lab4\Programming\DotNetSolution\Lab3_lib\obj\Debug\Lab3_lib.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_lab4\Programming\DotNetSolution\Lab3_lib\obj\Debug\Lab3_lib.dll
+C:\Users\Никита\Documents\ElinaComputer\GpssStudio\Projects\Ivanov_B19513_lab4\Programming\DotNetSolution\Lab3_lib\obj\Debug\Lab3_lib.pdb
